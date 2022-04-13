@@ -1,0 +1,11 @@
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\bin\Debug\visualizador-de-produtos.exe.config
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\bin\Debug\visualizador-de-produtos.exe
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\bin\Debug\visualizador-de-produtos.pdb
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.csproj.AssemblyReference.cache
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.csproj.SuggestedBindingRedirects.cache
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador_de_produtos.Form1.resources
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador_de_produtos.Properties.Resources.resources
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.csproj.GenerateResource.cache
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.csproj.CoreCompileInputs.cache
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.exe
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.pdb
