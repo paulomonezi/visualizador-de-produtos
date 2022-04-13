@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace visualizador_de_produtos
@@ -26,12 +19,20 @@ namespace visualizador_de_produtos
 
             foreach(string picture in carPictures)
             {
-                 
+                string[] split = picture.Split('\\');
+                string[] split2 = split[7].Split('.');
+                if (ModelCBox.Text == split2[0])
+                {
+                    pictureBox1.ImageLocation = PathPictures + "\\" + ModelCBox.Text + ".jpg";
+                    pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+
+                }
             }
         }
 
         private void BrandCBox_SelectedIndexChanged(object sender, EventArgs e)
         {
+            ModelCBox.Text = string.Empty;
             if (BrandCBox.Text == "FIAT")
             {
                 ModelCBox.Items.Clear();

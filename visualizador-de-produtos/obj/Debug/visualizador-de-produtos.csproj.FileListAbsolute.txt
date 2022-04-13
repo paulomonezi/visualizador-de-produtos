@@ -9,3 +9,7 @@ C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\ob
 C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.csproj.CoreCompileInputs.cache
 C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.exe
 C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.pdb
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\bin\Debug\visualizador-de-produtos.exe.manifest
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\bin\Debug\visualizador-de-produtos.application
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.exe.manifest
+C:\Users\pa_ul\source\repos\visualizador-de-produtos\visualizador-de-produtos\obj\Debug\visualizador-de-produtos.application
